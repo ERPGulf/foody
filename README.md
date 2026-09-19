@@ -2,7 +2,7 @@
 
 Foody app for restaurants
 
-### Installation
+#### Installation
 
 You can install this app using the [bench](https://github.com/frappe/bench) CLI:
 
